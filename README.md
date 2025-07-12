@@ -9,6 +9,7 @@ I'm a developer from Belgium.
 
 ### Socials:
 - Discord : `artex54`
+- Mail : `a.stockelynck12@outlook.com`
 
 ### Projects:
 - [GoldenCubeMC](https://github.com/GoldenCubeMC) : Small Minecraft server oriented towards farming.
