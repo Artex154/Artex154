@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, i'm Artex!
 
-<!--
-**Artex154/Artex154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer from Belgium.
 
-Here are some ideas to get you started:
+### Competences: 
+- Bukkit, PaperMC and SpigotMC
+- Fabric
+- NeoForge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Socials:
+- Discord : `artex54`
+
+### Projects:
+- [GoldenCubeMC](https://github.com/GoldenCubeMC) : Small Minecraft server oriented towards farming.
+- [RolesFFA](https://github.com/Artex154/RolesFFA) : A FFA Minecraft Plugin, where you fight with uniques roles.
